@@ -3,7 +3,7 @@
     ╔══════════════════════════════════════════════════════════════════════╗
     ║             📢  DXLANNN3 - AUTO ANNOUNCER SYSTEM                   ║
     ╠══════════════════════════════════════════════════════════════════════╣
-    ║ VERSIÓN: 1.0 (Fixed Bugs)                                               ║
+    ║ VERSIÓN: 1.0 (Fixed)                                               ║
     ║ AUTOR: Dxlannn3                                                      ║
     ║ DESCRIPCIÓN: Envía mensajes automáticos al chat cada cierto tiempo.  ║
     ╚══════════════════════════════════════════════════════════════════════╝
@@ -19,10 +19,10 @@
 local TIEMPO_ENTRE_ANUNCIOS = 30 -- Segundos (Ej: 180 = 3 minutos)
 
 local MENSAJES = {
-    "<font color='#55ff7f'>[INFO]</font> Si Funciona!!!",
-    "<font color='#55aaff'>[SOCIAL]</font> ¡Únete a nuestro grupo oficial para recibir premios! 👥",
-    "<font color='#ffaa00'>[TIP]</font> Usa el comando /help para ver las funciones básicas. 💡",
-    "<font color='#ff55ff'>[CREDITOS]</font> Servidor anunciado por el sistema de Dxlannn3. ✨"
+    "<font color='#55ff7f'>[INFO]</font> TEXTO AQUI",
+    "<font color='#55aaff'>[SOCIAL]</font> ¡TEXTO AQUI! 👥",
+    "<font color='#ffaa00'>[TIP]</font> TEXTO AQUI. 💡",
+    "<font color='#ff55ff'>[CREDITOS]</font> TEXTO AQUI. ✨"
 }
 
 -- [ SERVICIOS ]
