@@ -12,7 +12,7 @@
     1. SERVER SCRIPT: Pon este código como un script en 'ServerScriptService'.
     2. REMOTE EVENT: Crea en la seccion 'ReplicatedStorage' un remote event llamado "AnuncioChatEvent".
     3. CLIENT SCRIPT: En la carpeta StarterPlayer -> StarterPlayerScript pon el Script Complementario puedes buscar el codigo en 
-    mi GitHub o buscar el script en mi perfil de roblox.
+    mi GitHub o buscar en la Toolbox de Roblox Studio.
 ]]
 
 -- [ CONFIGURACIÓN ]
